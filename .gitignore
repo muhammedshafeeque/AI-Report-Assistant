@@ -1,0 +1,5 @@
+./reportGenerator/node_modules/
+./reportGenerator/.env
+./reportGenerator/node_modules
+./ReportAi/node_modules
+./ReportAi/.env
